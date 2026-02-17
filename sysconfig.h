@@ -1,2 +1,2 @@
-#define SYS_VERSION "1.0.0"
+#define SYS_VERSION "2.0.0-remote"
 
